@@ -1,24 +1,8 @@
-# README
+# Shoulda Matchers test app (Rails 5.1.4 + RSpec)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Quick steps:
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Generate a model (`rails g model`)
+* Update the migration as you see fit
+* Update the tests for the model as you see fit
+* Run the tests (`rspec`)
