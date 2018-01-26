@@ -14,7 +14,8 @@ shoulda-matchers officially supports. So far we have:
 ## Usage
 
 Fork this repo and choose a Rails app. Each app comes pre-installed with
-`rspec-rails` and `shoulda-matchers`, so you shouldn't need to set those up. No
+`rspec-rails` and `shoulda-matchers`, so you shouldn't need to set those up
+(although you may have to point `shoulda-matchers` to the master branch). No
 models or controllers exist, however -- feel free to add them as you see fit.
 
 Once you've written tests to reproduce the bug you're finding, push up your
