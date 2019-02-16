@@ -9,6 +9,7 @@ the gem to reproduce a bug you were finding.
 The apps here correspond to the Rails versions and test frameworks that
 shoulda-matchers officially supports. So far we have:
 
+* [Rails 4.2.10 + RSpec](rails-4-2-and-rspec)
 * [Rails 5.0.7 + RSpec](rails-5-0-and-rspec)
 * [Rails 5.1.6.1 + RSpec](rails-5-1-and-rspec)
 * [Rails 5.2.2 + RSpec](rails-5-2-and-rspec)
