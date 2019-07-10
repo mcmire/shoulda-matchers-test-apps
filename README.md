@@ -13,6 +13,7 @@ shoulda-matchers officially supports. So far we have:
 * [Rails 5.0.7 + RSpec](rails-5-0-and-rspec)
 * [Rails 5.1.6.1 + RSpec](rails-5-1-and-rspec)
 * [Rails 5.2.2 + RSpec](rails-5-2-and-rspec)
+* [Rails 6.0.0.rc1 + RSpec](rails-6-0-and-rspec)
 
 ## Usage
 
